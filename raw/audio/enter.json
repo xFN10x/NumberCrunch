@@ -2,7 +2,7 @@
 	"name": "Untitled",
 	"format": "UltraBox",
 	"version": 5,
-	"scale": "Free",
+	"scale": "Major",
 	"customScale": [
 		true,
 		false,
@@ -65,7 +65,6 @@
 						"panning",
 						"pitch shift",
 						"note filter",
-						"echo",
 						"reverb"
 					],
 					"pitchShiftSemitones": 12,
@@ -88,10 +87,8 @@
 					],
 					"pan": 0,
 					"panDelay": 10,
-					"echoSustain": 57,
-					"echoDelayBeats": 0.5,
 					"reverb": 45,
-					"fadeInSeconds": 0,
+					"fadeInSeconds": 0.0263,
 					"fadeOutTicks": 48,
 					"pulseWidth": 11,
 					"decimalOffset": 0,
@@ -115,7 +112,9 @@
 					"notes": [
 						{
 							"pitches": [
-								36
+								36,
+								43,
+								48
 							],
 							"points": [
 								{
