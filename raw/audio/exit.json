@@ -2,7 +2,7 @@
 	"name": "Untitled",
 	"format": "UltraBox",
 	"version": 5,
-	"scale": "Free",
+	"scale": "Minor",
 	"customScale": [
 		true,
 		false,
@@ -68,7 +68,7 @@
 						"echo",
 						"reverb"
 					],
-					"pitchShiftSemitones": 15,
+					"pitchShiftSemitones": 12,
 					"noteFilterType": false,
 					"noteSimpleCut": 10,
 					"noteSimplePeak": 0,
@@ -92,7 +92,7 @@
 					"echoDelayBeats": 0.5,
 					"reverb": 45,
 					"fadeInSeconds": 0,
-					"fadeOutTicks": 48,
+					"fadeOutTicks": 6,
 					"algorithm": "1←(2 3 4)",
 					"feedbackType": "1⟲",
 					"feedbackAmplitude": 0,
@@ -151,7 +151,7 @@
 					"notes": [
 						{
 							"pitches": [
-								24
+								20
 							],
 							"points": [
 								{
@@ -161,7 +161,7 @@
 									"forMod": false
 								},
 								{
-									"tick": 12,
+									"tick": 5,
 									"pitchBend": 0,
 									"volume": 100,
 									"forMod": false
@@ -175,7 +175,7 @@
 			"sequence": [
 				1
 			],
-			"octaveScrollBar": 2
+			"octaveScrollBar": 1
 		}
 	]
 }

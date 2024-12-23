@@ -1,0 +1,17 @@
+{
+  "icon": "test.png",
+  "tracks": [
+    {
+      "trackname": "Melody Of Death 2",
+      "filename": "melodyOfDeath.wav",
+      "trackno.": 1,
+      "credit": "_FN10_"
+    },
+    {
+      "trackname": "TEst",
+      "filename": "ThickOfItNES.wav",
+      "trackno.": 2,
+      "credit": "Testicle Man"
+    }
+  ]
+}

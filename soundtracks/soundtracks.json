@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "soundtracks": [
+    {
+      "name": "Test Soundtrack",
+      "icon": "test.png"
+      "supportedAQ": [
+        "max"
+      ],
+      "file": "test"
+    }
+  ]
+}
