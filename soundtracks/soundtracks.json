@@ -3,7 +3,7 @@
   "soundtracks": [
     {
       "name": "Test Soundtrack",
-      "icon": "test.png"
+      "icon": "test.png",
       "supportedAQ": [
         "max"
       ],
