@@ -1,0 +1,150 @@
+{
+	"name": "Untitled",
+	"format": "UltraBox",
+	"version": 5,
+	"scale": "Minor",
+	"customScale": [
+		true,
+		false,
+		true,
+		true,
+		false,
+		false,
+		false,
+		true,
+		true,
+		false,
+		true,
+		true
+	],
+	"key": "C",
+	"keyOctave": 0,
+	"introBars": 0,
+	"loopBars": 1,
+	"beatsPerBar": 8,
+	"ticksPerBeat": 24,
+	"beatsPerMinute": 232,
+	"reverb": 0,
+	"masterGain": 1,
+	"compressionThreshold": 1,
+	"limitThreshold": 1,
+	"limitDecay": 4,
+	"limitRise": 4000,
+	"limitRatio": 1,
+	"compressionRatio": 1,
+	"layeredInstruments": false,
+	"patternInstruments": false,
+	"channels": [
+		{
+			"type": "pitch",
+			"name": "",
+			"instruments": [
+				{
+					"type": "chip",
+					"volume": 0,
+					"eqFilter": [],
+					"eqFilterType": false,
+					"eqSimpleCut": 10,
+					"eqSimplePeak": 0,
+					"envelopeSpeed": 12,
+					"discreteEnvelope": false,
+					"eqSubFilters0": [
+						{
+							"type": "peak",
+							"cutoffHz": 6727.17,
+							"linearGain": 5.6569
+						}
+					],
+					"eqSubFilters1": [],
+					"effects": [
+						"panning",
+						"pitch shift",
+						"note filter",
+						"reverb"
+					],
+					"pitchShiftSemitones": 4,
+					"noteFilterType": false,
+					"noteSimpleCut": 10,
+					"noteSimplePeak": 0,
+					"noteFilter": [
+						{
+							"type": "low-pass",
+							"cutoffHz": 19027.31,
+							"linearGain": 0.5
+						}
+					],
+					"noteSubFilters0": [
+						{
+							"type": "low-pass",
+							"cutoffHz": 19027.31,
+							"linearGain": 0.5
+						}
+					],
+					"pan": 0,
+					"panDelay": 10,
+					"reverb": 45,
+					"fadeInSeconds": 0,
+					"fadeOutTicks": -1,
+					"wave": "rounded",
+					"unison": "none",
+					"isUsingAdvancedLoopControls": false,
+					"chipWaveLoopStart": 0,
+					"chipWaveLoopEnd": 64,
+					"chipWaveLoopMode": 0,
+					"chipWavePlayBackwards": false,
+					"chipWaveStartOffset": 0,
+					"envelopes": []
+				}
+			],
+			"patterns": [
+				{
+					"notes": [
+						{
+							"pitches": [
+								36
+							],
+							"points": [
+								{
+									"tick": 0,
+									"pitchBend": 0,
+									"volume": 100,
+									"forMod": false
+								},
+								{
+									"tick": 6,
+									"pitchBend": 0,
+									"volume": 100,
+									"forMod": false
+								}
+							],
+							"continuesLastPattern": false
+						},
+						{
+							"pitches": [
+								36
+							],
+							"points": [
+								{
+									"tick": 12,
+									"pitchBend": 0,
+									"volume": 100,
+									"forMod": false
+								},
+								{
+									"tick": 24,
+									"pitchBend": 0,
+									"volume": 100,
+									"forMod": false
+								}
+							]
+						}
+					]
+				}
+			],
+			"sequence": [
+				1
+			],
+			"octaveScrollBar": 1
+		}
+	]
+}
